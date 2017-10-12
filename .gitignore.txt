@@ -7,7 +7,7 @@
 Icon
 
 
-# Thumbnails
+# Thumbnails files
 ._*
 
 # Files that might appear in the root of a volume
