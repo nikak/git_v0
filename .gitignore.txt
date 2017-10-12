@@ -3,6 +3,9 @@
 .AppleDouble
 .LSOverride
 
+# temp sub-directory (ended with a directory separator)
+temp/
+
 # Icon must end with two \r
 Icon
 
